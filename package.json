@@ -1,0 +1,31 @@
+{
+  "name": "node-project-template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Aaron Trent <novacrazy@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novacrazy/node-project-template"
+  },
+  "bugs": {
+    "url": "https://github.com/novacrazy/node-project-template/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-banner": "^0.2.3",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-ts": "^2.0.0",
+    "grunt-typescript": "^0.3.7",
+    "mocha": "^1.20.1",
+    "typescript": "^1.3.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {},
+  "optionalDependencies": {},
+  "private": true
+}

@@ -30,3 +30,13 @@ node_modules
 # TypeScript compiler notes
 .tscache
 .baseDir.*
+reference*.*
+
+# TypeScript types and notes
+*typings/*
+
+# Source files
+src
+
+# test files
+test
